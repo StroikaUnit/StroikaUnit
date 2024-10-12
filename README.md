@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @StroikaUnit
-- 👀 I’m interested in harware-near programming
+- 👀 I’m interested in hardware-near programming
 - 🌱 I’m currently learning Ada,Python 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
